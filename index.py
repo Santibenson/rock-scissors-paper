@@ -7,8 +7,6 @@ while True:
 
     computer = random.choice(choices)
     player = None
-    player_round = 3
-    played = 0
 
 
 #---------- starts all over if the player's choice isn't in choices   
